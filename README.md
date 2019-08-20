@@ -1,11 +1,8 @@
 # hello-bloody-world
-This is a time-honored tradition in computer programming and on Git hub, apparently. Bloody!
+This is a time-honored tradition in computer programming on Git hub. Streuth and bloody !
 
-Hello Many Things!
+I much like Security, OSINT, Python, JavaScript and much other things! Good, no !
 
-BoshTheNonDev planted here.  I much like Security, OSINT, Python, JavaScript and much other things! Bloody!
-I've worked on muchness to nothings, in one experiment we's create 256K users to a something in 52 days ! Nothing of this Bloody !
+I worked on muchness to nothings, in one experiment it create 256K users to a something of nothing in 52 days !  This makes it so peoples bite at knees, one a codeman who speaks false about javascript and security.  SO, BoshTheNonDev say... how you say... "Get Stuffed To Learn Other Things Of Codeness - Okay !".  
 
-Dis scare peoples of things in doing same ! SO, BoshTheNonDev say... how you say... "Get Stuffed To Learn Other Things Of Codeness - Okay !".  
-
-Yes, Bloody! "Get Stuffed To Learn Other Things Of Codeness ! !".  I am here now.
+I am here now.
